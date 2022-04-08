@@ -185,7 +185,7 @@ footer {
 
 /* MEDIA QUERY */
 
-@media screen and (max-width: 375px){
+@media screen and (min-width: 375px) and (max-width: 1024px){
     header img {
         width: 120px;
     }
